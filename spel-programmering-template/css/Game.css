@@ -1,0 +1,8 @@
+/*Bakgrund + att det inte går att skrolla i spelet*/
+body {
+    background-image: url("../img/BG.PNG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}

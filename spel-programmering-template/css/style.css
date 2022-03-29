@@ -1,0 +1,15 @@
+/*Färg på text + plasering på text*/
+a {
+    text-decoration: none;
+    color: aqua;
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-color: black;
+}
+h2 {
+    color: azure;
+    text-align: center;
+}
